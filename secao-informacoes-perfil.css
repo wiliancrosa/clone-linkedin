@@ -120,6 +120,17 @@ section.card{
   .perfil-acoes{
     padding: 8px 24px 24px;
   }
-  .perfil-acoes button:last-child{
+  .perfil-acoes button:last-child {
     margin-left: .6rem;
+    width: 128px;
+    height: 32px;
+    left: 178px;
+    top: 488px;
+  }
+
+  .botao-primario {
+    width: 128px;
+    height: 32px;
+    left: 178px;
+    top: 488px;
   }
